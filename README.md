@@ -11,7 +11,7 @@
 
 ### About the exam / instructions
 - First is to clone the project and locate the project folder. Please check if vendor is existing, if not please execute `composer install`.
-- An `.env` file that I've used is located at the `env_file` folder as text. Please use it because I have setup a smtp for email sending.
+- I have attached my `.env` file in my email. Please use it in your local environment.
 - I have activated the verification email with smtp so please update the `.env` based on mine.
 - Please also check your spam when verifying your email.
 - Please setup a MySQL server (please ignore if already exists) and create database named `task_management`.
