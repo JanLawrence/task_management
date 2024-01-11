@@ -18,7 +18,7 @@
 - During the migration process, A seeder is automatically executed for users and one admin. All users/admin data has a password credential of `password`.
 - I have also created an admin user. The credential is `email:admin@email.com` and `password:password`.
 - I'm sorry that I can't do the scheduler for every 30 min of deletion due to lack of time. For deleting of trashed Tasks, I have created a command to execute it manually. The command is `php artisan delete:tasks`. But I have also created a page for trashed tasks for manual deleting.
-- I have uploaded the project in Heroku `https://immense-lowlands-51621-971ce7682505.herokuapp.com/`. Just register with your valid email.
+- I have uploaded the project in Heroku `https://immense-lowlands-51621-971ce7682505.herokuapp.com/`. You can register with your valid email.
 - Please enjoy exploring the app. Thank you very much again for the opportunity!
 
 ## About Laravel
